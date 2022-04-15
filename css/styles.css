@@ -1,0 +1,179 @@
+body{
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+}
+
+button{
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+}
+
+p{
+  color: #8f8f8f;
+}
+
+.container-fluid{
+  padding: 7% 15%;
+}
+
+/* Sections */
+
+.section-color{
+  background-color: #61B15A;
+  color: #E5EFC1;
+}
+
+.section-white{
+    background-color: #fff;
+}
+
+/* Headings */
+.big-heading{
+  color: #E5EFC1;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3.25rem;
+  font-weight: 600;
+  line-height: 1.5;
+}
+
+/* Navigation Bar */
+
+.navbar{
+  padding-bottom: 4.5rem;
+}
+
+.navbar-brand{
+  font-family: 'Josefin Sans', sans-sans-serif;
+  font-size:1.75rem;
+}
+
+.nav-item{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 300;
+  padding: 0 18px;
+}
+
+/* Title Section */
+
+#title .container-fluid{
+  padding: 3% 15% 7%;
+  text-align: left;
+}
+
+/* Download Buttons */
+.download-button{
+  margin: 5% 3% 5% 0;
+}
+
+/* Title Image */
+
+.title-image{
+  width: 50%;
+  height: auto;
+  padding: 0 10%;
+  transform: rotate(20deg);
+  position: absolute;
+  right: 8%;
+}
+
+/* Features */
+#features{
+  position: relative;
+}
+
+.feature-facts{
+  padding: 2%;
+}
+
+.feature-head{
+  color: #3C3F3C;
+  font-size: 1.5rem;
+  font-weight: 600;
+  padding: 15px 0 0 0;
+}
+
+.feature-icons{
+  color: #61B15A;
+  display: block;
+  margin-bottom: 1rem;
+}
+
+.feature-icons:hover{
+  color: #ADCE74;
+}
+
+/* Testimonial Section */
+
+#testimonials{
+  background-color: #ADCE74;
+}
+
+.testimonial-image{
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px 20px 50px;
+}
+
+#press{
+  background-color: #ADCE74;
+  padding-bottom: 3%;
+}
+
+.press-images{
+  width: 15%;
+  margin: 20px;
+}
+
+.testimonial-text{
+  font-size: 2.25rem;
+  line-height: 1.5;
+}
+
+/* Card Pricing Section */
+#pricing{
+  padding: 100px;
+}
+
+.pricing-card-title{
+  color: #61B15A;
+}
+
+.pricing-column{
+  padding: 3% 2%;
+}
+
+.text-muted{
+  font-size: 2rem;
+}
+
+/* CTA section */
+
+.cta-tagline{
+  color: #E5EFC1;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+  font-weight: 600;
+}
+
+/* Footer */
+
+.footer-icons{
+  margin: 20px 10px;
+}
+
+@media (max-width: 1028px) {
+  #title{
+    text-align: center;
+  }
+
+  .title-image {
+    position: static;
+    transform: rotate(0);
+    width: 100%;
+  }
+}
