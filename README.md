@@ -1,6 +1,6 @@
 # Teacher's Aide Mock Start-up landing page
 
-*Landing page for a mock start-up, styled with Bootstrap. Deployed [here](https://eireann07.github.io/teachers-aide-mock-startup/) with Github pages. Uses original graphics. Wireframed with Balsamiq.*
+*Responsive landing page for a mock start-up, styled with Bootstrap. Deployed [here](https://eireann07.github.io/teachers-aide-mock-startup/) with Github pages. Uses original graphics. Wireframed with Balsamiq.*
 
 **What I enjoyed while building this app:** The design! I spend so much time styling the page, making sure images were correctly places in order to be effective, and creating images to make sure the page felt authentic. 
 
